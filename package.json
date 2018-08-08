@@ -1,0 +1,23 @@
+{
+  "name": "html-slider",
+  "version": "1.0.0",
+  "description": "A flexible, responsive, friendly Slider for Vue2.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-onepixel/html-slider.git"
+  },
+  "keywords": [
+    "vue",
+    "slider"
+  ],
+  "author": "onepixel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-onepixel/html-slider/issues"
+  },
+  "homepage": "https://github.com/git-onepixel/html-slider#readme"
+}
